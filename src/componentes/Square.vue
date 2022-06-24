@@ -45,8 +45,6 @@
 </script>
 
 <style scoped lang="css">
-  .src-components-square {
-  }
   .square {
 	width: 30%;
 	background: blue;
